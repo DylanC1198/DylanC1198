@@ -13,6 +13,6 @@
 
   》<p>Owner of: <a href="https://discord.com/oauth2/authorize?client_id=838529121956921386&permissions=846589431&scope=bot">ADMEEEEEEN BOT</a> , <a href="https://discord.com/oauth2/authorize?client_id=838529121956921386&permissions=846589431&scope=bot">VTC BOT</p></a>
   
-  》<p>Devoper for: <a href="https://dscjobs.org/">Dscjobs</a>, <a href="https://www.widgetstyle.xyz/">Widgetstyle</a>, <a href="https://reviewbots.xyz/">Review Bots</a>, <a href="eireagri.net">Eire Agri</a>, <a href="https://tenor.com/view/leigh574-critical-role-liam-obrien-later-come-back-later-gif-13301639">Chrismass Countdown</a></p>
+  》<p>Developer for: <a href="https://dscjobs.org/">Dscjobs</a>, <a href="https://www.widgetstyle.xyz/">Widgetstyle</a>, <a href="https://reviewbots.xyz/">Review Bots</a>, <a href="eireagri.net">Eire Agri</a>, <a href="https://tenor.com/view/leigh574-critical-role-liam-obrien-later-come-back-later-gif-13301639">Chrismass Countdown</a></p>
   
   》<p>Staff Manger for: <a href="https://infinitybotlist.com/">Infinity Bot List</a>
