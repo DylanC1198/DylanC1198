@@ -10,5 +10,5 @@
 
 
   <h1>My Projects:</h1>
-  <p>》Developer for: <a href="eireagri.net">Eire Agri</a>,</p>
+  <p>》Head Devolper for: <a href="eireagri.net">Eire Agri / Eire Agri Modding</a>,</p>
   
