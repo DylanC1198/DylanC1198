@@ -1,5 +1,5 @@
 
-
+<h3 align="center">I am a Jack of all Trades and a Master at none.</h3>
 <p align="center">
   <a href="https://github.com/DylanC1198">
     <img src="https://komarev.com/ghpvc/?username=DylanC1198&style=flat-square&label=Profile%20Views&logo=github" alt="Profile Visits"/>
@@ -10,6 +10,5 @@
 
 
   <h1>My Projects:</h1>
-
   <p>》Developer for: <a href="eireagri.net">Eire Agri</a>,</p>
   
